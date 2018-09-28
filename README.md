@@ -18,3 +18,6 @@
    For loop: To itdrate through an object
 3. Statement 1, Statement 2, Statement 3
 4. refers to the integers of the index
+1. object: group variables together
+2. (mouseY, 10, 100, 20, 200)
+3.
